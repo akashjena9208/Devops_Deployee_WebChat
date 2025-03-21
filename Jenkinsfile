@@ -9,7 +9,7 @@ pipeline{
     stages{
         stage('clone'){
             steps{
-            git 'https://github.com/akashjena9208/Devops_Deployee_WebChat.git'
+           git 'https://github.com/akashjena9208/Devops_Deployee_WebChat.git'
                 
             }
         }
