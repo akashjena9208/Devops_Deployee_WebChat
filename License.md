@@ -20,5 +20,5 @@ You must retain the original copyright notice and attribution to the creator whe
 
 **5. Contact Information**
 
-For permissions related to commercial use, please contact: Code With Goldencat (codingwithgoldencat@gmail.com)
+For permissions related to commercial use, please contact: Code With Goldencat
 
